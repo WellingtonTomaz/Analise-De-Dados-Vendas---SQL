@@ -23,4 +23,4 @@ Foram respondidas as seguintes questões:
 
 Primeiramente foram feitas algumas verificações dos dados, e atualizações conforme solicitação da liderença, após os devidos tratamentos, foram feitas as consultas no DB conforme mostra o arquivo CONSULTAS.
 
-Logo após foi criado um relatorio em documento WORD , com graficos e informações solicitas pelo time de marketing.
+Logo após foi criado um relatorio em documento WORD , com graficos e informações solicitadas pelo time de marketing.
